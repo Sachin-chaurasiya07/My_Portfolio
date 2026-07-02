@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Qualify AI",
+    "desc": "AI mock interview platform generating 15 adaptive questions from resumes or candidate profiles. Google OAuth, JWT auth, Razorpay credit-based subscriptions, and LLM-based response evaluation with downloadable interview reports.",
+    "image": "qualifyai",
+    "tech": ["React", "Node.js", "MongoDB"],
+    "links": {
+      "view": "https://qualify-ai-client.onrender.com/",
+      "code": "https://github.com/Sachin-chaurasiya07/Qualify-AI"
+    }
+  },
+  {
+    "name": "AgriSight",
+    "desc": "AI-powered crop recommendation system for UP farmers, trained on soil and weather data. Integrates Groq LLaMA3 for real-time farming advice, WeatherAPI for forecasts, and a BotPress chatbot for query resolution.",
+    "image": "agrisight",
+    "tech": ["Python", "Streamlit", "Scikit-learn"],
+    "links": {
+      "view": "https://huggingface.co/spaces/Sachin0728/AgriSight",
+      "code": "https://github.com/Sachin-chaurasiya07/AgriSight-AI-Powered-Crop-Recommender-Risk-Forecaster-Virtual-AgriBot"
+    }
+  },
+  {
+    "name": "NextTask",
+    "desc": "Full-stack Kanban task manager built with React, TypeScript, Node.js, Express, MongoDB, and JWT authentication. Features drag-and-drop task management, an analytics dashboard, and a responsive UI.",
+    "image": "nexttask",
+    "tech": ["React", "TypeScript", "Node.js"],
+    "links": {
+      "view": "https://github.com/Sachin-chaurasiya07/NextTask",
+      "code": "https://github.com/Sachin-chaurasiya07/NextTask"
+    }
+  }
+]
